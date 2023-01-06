@@ -2,27 +2,27 @@
    "files": [    
 
 {
-         "name": "SG-FREE-001",
+         "name": "TH-FREE-001",
          "url": "https://raw.githubusercontent.com/Mcminmin/OPPO/main/Free-001.ovpn"
       },
 {
-         "name": "SG-FREE-002",
+         "name": "TH-FREE-002",
          "url": "https://raw.githubusercontent.com/Mcminmin/OPPO/main/Free-002.ovpn"
       },
 {
-         "name": "SG-FREE-003",
+         "name": "TH-FREE-003",
          "url": "https://raw.githubusercontent.com/Mcminmin/OPPO/main/Free-003.ovpn"
       },
 {
-         "name": "SG-VIP-004",
+         "name": "TH-VIP-004",
          "url": "https://raw.githubusercontent.com/Mcminmin/OPPO/main/Free-004.ovpn"
       },
 {
-         "name": "SG-VIP-005",
+         "name": "TH-VIP-005",
          "url": "https://raw.githubusercontent.com/Mcminmin/OPPO/main/Free-005.ovpn"
       }
 ],
-"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\n•All New Servers\n•Version: 2\n\n•Config By:FreeNetChitThu ",
+"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\n•All New Servers\n•Version: 3\n\n•Config By:FreeNetChitThu ",
    "title":"Add DTAC&TRUE auto update file" ,
-   "version": 2
+   "version": 3
 }
